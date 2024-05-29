@@ -1,0 +1,17 @@
+﻿@page "/"
+
+<PageTitle>Blazor and Command</PageTitle>
+
+<h1>Search For Product.</h1>
+
+@* <EditForm Model="SearchModel" OnSubmit="HandleFormSubmit">
+    <InputText @bind-Value="SearchModel.ProductCode" />
+    <button>Submit</button>
+</EditForm> *@
+
+
+<button @onclick="AddToCartCommandEvent">
+    Add To Cart Command
+</button>
+
+@* <button @onclick="@(() => AddToCartCommand.Execute(true))"> Add To Cart Command</button> *@
