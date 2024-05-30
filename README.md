@@ -5,3 +5,13 @@ This repository demonstrates a Blazor application implementing the Command Patte
 Blazor Integration: Leverages the Blazor framework for building interactive web UIs using C#.
 Command Pattern Implementation: Demonstrates how to use the Command Pattern to encapsulate requests as objects, allowing for more flexible and maintainable code.
 Modular Design: Encourages separation of concerns, making the application easier to extend and maintain.
+
+
+Getting Started
+Prerequisites
+.NET SDK 8.0 or later
+Visual Studio with Blazor development tools or Visual Studio Code with C# extension
+
+Acknowledgements
+Blazor
+Command Pattern
