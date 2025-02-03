@@ -15,3 +15,7 @@ Visual Studio with Blazor development tools or Visual Studio Code with C# extens
 Acknowledgements
 Blazor
 Command Pattern
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
